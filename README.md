@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tom-Sumner
-- 🌱 I’m currently learning HTML & CSS
-- 💞️ I’m looking to collaborate on discord bots and back end web applications
+- 🌱 I’m currently learning Java.
+- 💞️ I'm currently looking for a cyber security apprenticeship.
 - 📫 [My Site](https://tom-sumner.github.io)
 
 <!---
