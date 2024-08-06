@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tom-Sumner
-- 🌱 I’m currently learning Java.
-- 💞️ I'm currently looking for a cyber security apprenticeship.
+- 🌱 I’m currently learning Microsoft Power Platform.
+- 💞️ I'm currently in a part-time system admin role.
 - 📫 [My Site](https://tom-sumner.github.io)
 
 <!---
